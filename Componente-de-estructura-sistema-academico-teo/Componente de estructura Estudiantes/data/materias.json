@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Algoritmo Y Lógica De Programación",
+    "codigo": "001",
+    "creditos": 3,
+    "cupos": 16
+  },
+  {
+    "id": 2,
+    "nombre": "Cálculo",
+    "codigo": "002",
+    "creditos": 4,
+    "cupos": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Estadística",
+    "codigo": "003",
+    "creditos": 3,
+    "cupos": 22
+  },
+  {
+    "id": 4,
+    "nombre": "Estructura De Datos",
+    "codigo": "004",
+    "creditos": 4,
+    "cupos": 14
+  }
+]
